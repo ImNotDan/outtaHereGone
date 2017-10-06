@@ -1,5 +1,6 @@
 var slackKeyLink = 'https://hooks.slack.com/services/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';
 var test = "Kao Tests"
+var ultimateTest = "Dan Tests"
 
 function getDataToPost(test) {
 	var thisURL = makeLink(test);
